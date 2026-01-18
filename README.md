@@ -24,7 +24,7 @@ To activate the website so you can visit it in a browser, click on the **Purdue-
 
 Before you can create a GitHub Page, ensure that your repository is public by checking to the right of your repository name on the top left of the screen. You should see the word "Public".
 
-Scroll down to the section in Settings called **GitHub Pages**. Change the **Source** setting to the option called **master** and click save. At this point, you can navigate to `https://Purdue-CS193.github.io/homework-0-<Your Github Username>/` to view the website you just activated!
+Scroll down to the section in Settings called **GitHub Pages**. Change the **Source** setting to the option called **master** and click save. At this point, you can navigate to `https://purduecs193-f25.github.io/homework-0-<YOUR_GITHUB_USERNAME>-1/` to view the website you just activated!
 
 Right now, there isn't any meaningful content on this website, just a placeholder that tells you a little about what you can do with the website template.
 
@@ -36,7 +36,7 @@ From here, click on the `index.md` file. You should see the same content you vie
 
 To edit this file, click on the **edit** button (it looks like a little pencil) in the upper right-hand corner of the file display. This will open a text editor where you can change the contents of the website to whatever you want. Take a few minutes to experiment with the different formatting tools that the website template tells you are available.
 
-To save your changes so that they will display on your website, fill out the **Commit Changes** form at the bottom by describing what you changed on the website. Select the option called **Commit directly to the master branch** and click **Commit changes**. If all is well, you should be able to navigate back to `https://Purdue-CS193.github.io/homework-0-<Your Github Username>/` and view the changes you made.
+To save your changes so that they will display on your website, fill out the **Commit Changes** form at the bottom by describing what you changed on the website. Select the option called **Commit directly to the master branch** and click **Commit changes**. If all is well, you should be able to navigate back to `https://purduecs193-f25.github.io/homework-0-<YOUR_GITHUB_USERNAME>-1/` and view the changes you made.
 
 **Your changes may not load immediately. If you do not see any changes, hit <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd> (or <kbd>⌘</kbd> + <kbd>SHIFT</kbd> + <kbd>R</kbd> on macs).**
 
