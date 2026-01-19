@@ -1,6 +1,9 @@
 # Adam Zhang's First CS193 Homework
 
-
+## My Favorite Things about CS193
+- Only one lecture a week :)
+- We will learn valuable skills
+- I'll get better with using GitHub
 
 
 
